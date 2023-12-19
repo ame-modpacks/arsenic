@@ -1,0 +1,13 @@
+name = "Embeddium Extension"
+filename = "embeddiumextension-1.16.5-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "31e9066bc8ef3a67609b4825ca917a91d0a3e211"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4908146
+project-id = 920353

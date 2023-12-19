@@ -1,0 +1,13 @@
+name = "Arsênico"
+author = "AmeMeida"
+version = "1.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "00044f10a391a29d7f3c254ce624dca0ac4ea1ffde2563931bcbc3f0aa70f978"
+
+[versions]
+forge = "36.2.40"
+minecraft = "1.16.5"

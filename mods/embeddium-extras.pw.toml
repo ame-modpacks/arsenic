@@ -1,0 +1,13 @@
+name = "Embeddium Extras"
+filename = "embeddiumextras-mc1.16.5_v1.11.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "377e6b661a058fc1d836c5f0c3604344e6d75e07"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4960146
+project-id = 825358

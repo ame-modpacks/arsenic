@@ -1,0 +1,13 @@
+name = "HeIium"
+filename = "helium-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ea4a9dc4e96929480a98f9298d0d3a6250786552"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3526014
+project-id = 546584

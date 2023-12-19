@@ -1,0 +1,111 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "1e7d9b9a774ad5979818555362dbdf8b2600317c036a0995024ee24d719e34e0"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "8dcfdd556df68cc338bdd9436a4e8face08a08cb114bffc5c66b43c71d80ddbc"
+metafile = true
+
+[[files]]
+file = "mods/catalogue.pw.toml"
+hash = "c672f28f4e820ba7b1cb81d8ac7583c5c7f9fcf5118c39884405ed84ad3518b7"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "d99e4a7801ef0b1cc54c056235608f5d0f38c3365e2825dfbfc6cc868931cbb7"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "1a01ec8a8ca02d7eb862ee1d31752f265b2dd22e03c1e17c9950f5c7cccdd90b"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "736dbe1ea51b7798b21045657291f02b530875fd94b98c084de4acedc9999f2b"
+metafile = true
+
+[[files]]
+file = "mods/embeddium-extension.pw.toml"
+hash = "1c2b2bd69ab8b4978da47bd72afacfc39372be469a7a41bc1e25d4670ed7b5e1"
+metafile = true
+
+[[files]]
+file = "mods/embeddium-extras.pw.toml"
+hash = "2fc3ab427d68c4a3de371445e9f8558e476d3ae6d087a08343f12a5938c90a5a"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "15594dbdac879fa0c4b9e1b220ddc645ed23c2d1b0d01d38e51e448329dbf560"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "37b9b71a2ae4d1cae29c27830bbe809c36601f066f48fb71d822f98ad82d0c1e"
+metafile = true
+
+[[files]]
+file = "mods/hydrogen-reforged.pw.toml"
+hash = "00dc8b884ea246594335f1bb8913971d056e0daf3edbab62a947f149d16beb4f"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "c7ec1444792e09cced117d3ad2d27f2c4d952dd1989b3110ef98c4970f228ab4"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "3aff473c4bf2e5133793d6028bc7c6de57359b20ebe83af08832a1eda08babd3"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "54a05a04fc4c2af06ed779b5269cd001ce8188e825ac11bd8895551d3863285b"
+metafile = true
+
+[[files]]
+file = "mods/krypton-reforged.pw.toml"
+hash = "1da1c59393173a181d95fd5d0d5fdfa864d052cb743e2c23bf4f0fb53475df79"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "03b95396f886a22987e8fee18d1b9855e4f06c09d166e180e3e0339665aeb36b"
+metafile = true
+
+[[files]]
+file = "mods/lazy-dfu-forge.pw.toml"
+hash = "4cbade87fef39ba34f9b459b8d238fa761901c4817db0564ef4dae1a06e4b832"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "13b02e9b6c4e5781fb93e6909d7523428c3fc34c8959ee065e56096c7226a64b"
+metafile = true
+
+[[files]]
+file = "mods/phosphor-reforged.pw.toml"
+hash = "19f4d59d1bd6ff527bc9553aaa43b3c1767320c4c66e28fe0908ad0f53cd2b3b"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "bd1f1597a9728b71a28969e4d7c9ed24f29b3c5fc77379a0c9ce5a7a29117594"
+metafile = true
+
+[[files]]
+file = "mods/roadrunner.pw.toml"
+hash = "426f57df1157b97d7c53aab1d0ed858cde871fd51cabf9dcd6b981b930cf36e3"
+metafile = true
+
+[[files]]
+file = "mods/snow-under-trees.pw.toml"
+hash = "901f0b0321a689fca56181064b917a66fea77f9e85adbecf689b869d315fc598"
+metafile = true
