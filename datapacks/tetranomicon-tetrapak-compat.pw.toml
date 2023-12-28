@@ -1,0 +1,7 @@
+name = "Tetranomicon + Tetrapak Compatibility Datapack"
+filename = "tetranomicon+tetra_pak_compat.zip"
+
+[download]
+url = "https://github.com/Noobulus/tetranomipak/releases/download/0.1/tetranomicon+tetra_pak_compat.zip"
+hash-format = "sha256"
+hash = "ff6070bed57a091d5bdaf153d7fae6e7917a99330b3d2c81715efd8e1c53e8f0"

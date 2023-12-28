@@ -1,0 +1,13 @@
+name = "Overworld Two (Forge)"
+filename = "overworld_two-1.1-1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9073e51070feb2f61115175f4e901bc8276ad711"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4462947
+project-id = 431157
