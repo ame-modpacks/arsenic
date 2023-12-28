@@ -1,12 +1,12 @@
 name = "Arsênico"
 author = "AmeMeida"
-version = "2.2.1"
+version = "2.2.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6585393feabb3fc911e191933984751e752841a0111f1899a95c2e275bfeea27"
+hash = "0772b7f552de2f2fd3f19d72d5862efbe401b831f4207406231b5cdb2dd1cf43"
 
 [versions]
 forge = "36.2.40"

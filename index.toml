@@ -141,6 +141,11 @@ hash = "00dc8b884ea246594335f1bb8913971d056e0daf3edbab62a947f149d16beb4f"
 metafile = true
 
 [[files]]
+file = "mods/inventory-tweaks-renewed.pw.toml"
+hash = "6d768075542b20801d327c38bc13096edc8b517b5c969ca887b456ac698d8573"
+metafile = true
+
+[[files]]
 file = "mods/iron-furnaces.pw.toml"
 hash = "0301fe66e8b886c9c3ff14cbd0cc23d86787daebdc4c3d0ac6b447c4ecc6703f"
 metafile = true
@@ -203,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/morpheus.pw.toml"
 hash = "82a846bee25a735c99df699510d0757a7e7745f8ce436210bd27362bd0df3c69"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "04a92a819f7c3dff89382baf5c5fb25c1386da08ead8510ea009aa1ccc8daf02"
 metafile = true
 
 [[files]]
