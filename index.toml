@@ -26,6 +26,11 @@ hash = "fca21ba2e8935773ce2dee899109caee7851fa98b1e72e927bf0dc7b3f599430"
 metafile = true
 
 [[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "f06255716712432059cdbfef6618fd7f33b8d9521563d8c0705f138a422b5030"
+metafile = true
+
+[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "5f0f44a271c994a591bc78db95aec291548a9198a51706dfa6fa22b1af3bea88"
 metafile = true
@@ -223,11 +228,6 @@ metafile = true
 [[files]]
 file = "mods/mutil.pw.toml"
 hash = "32ac5d6a511d6441c0862ca6f5002d7868883ba10cbd0d44f387c80d41a373de"
-metafile = true
-
-[[files]]
-file = "mods/oh-the-biomes-youll-go.pw.toml"
-hash = "13c7d44940110bb9d8149f3e2403356e1fe33c1eece4a197bcb5835cdb1f3de4"
 metafile = true
 
 [[files]]
