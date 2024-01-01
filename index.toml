@@ -136,6 +136,11 @@ hash = "856e791972a4705daba7d691290f81ed67a061e4850eb17bd6c9bb82b7b49e20"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "0356009ae37c9c7eca5d839a021fbaca73de03480415fde73089e2c814873406"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "37b9b71a2ae4d1cae29c27830bbe809c36601f066f48fb71d822f98ad82d0c1e"
 metafile = true
@@ -203,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "8e4bcfb3c7414bad4fa427e5381fe9e44d8d7ba197b76ed3701c00df8bf6c2a3"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "daf048f8ed72a037b1e74792a400a23d9635c7e85bf3dccecaabd7fb1f0a9c2d"
 metafile = true
 
 [[files]]
